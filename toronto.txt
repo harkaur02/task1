@@ -1,0 +1,2 @@
+Transport Type: Subway
+Places: CN Tower, Kings Park
