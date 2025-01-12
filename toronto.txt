@@ -1,2 +1,2 @@
-Transport Type - Bus
-Shopping: Eatoon Centre, Yorkdale Mall
+Transport Type: Subway
+Places: CN Tower, Kings Park
